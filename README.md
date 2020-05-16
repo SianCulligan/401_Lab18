@@ -1,6 +1,6 @@
-# LAB - Class 17
+# LAB - Class 18
 
-## Project Name: Socket Server App
+## Project Name: Socket.io Server App
 
 ## Author: 
 - Sian Culligan
@@ -8,11 +8,10 @@
 ## Links and Resources
 - [Sonia's Lecture Video](https://www.youtube.com/watch?v=T1JhVHGk-RA)
 - [Faker Info](https://www.npmjs.com/package/faker)
-- [Net Docs](https://node.readthedocs.io/en/latest/api/net/)
+- [Socket Docs](https://socket.io/)
 
 ## Submission PR
-- [Pull Request](https://github.com/SianCulligan/401Lab_17/pull/1)
-- [Resubmit PR](https://github.com/SianCulligan/401Lab_17/pull/2)
+- [Pull Request](https://github.com/SianCulligan/401_Lab18/pull/1)
 - No .env
 
 ## How to initialize/run your application 
@@ -23,4 +22,4 @@
 - 3. Start the driver.js file by typing out ``node driver.js``
 
 ## UML
-![Socket UML](./assets/SocketUML.png)
+![Socket.io UML](./assets/SocketUML.png)
